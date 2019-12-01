@@ -1,4 +1,3 @@
-#GHTTP
 GHTTP is a simple binary binary module to make post requests on linux. GHTTP Automatically converts a provided table into json, and performs a post request.
 
 A simple example:
